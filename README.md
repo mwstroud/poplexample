@@ -3,11 +3,17 @@
 This repository tries to be a compact testing environment for antlr and uses example code and information from the following sources:
 References
 • https://tomassetti.me/antlr-mega-tutorial/
+
 • https://jason.whitehorn.us/blog/2021/02/08/getting-started-withantlr-for-python/
+
 • https://dzone.com/articles/antlr-4-with-python-2-detailed-example
+
 • https://faun.pub/introduction-to-antlr-python-af8a3c603d23
+
 • https://gist.github.com/jeroendeswaef/563cd2ab68ab895aedff
+
 • https://github.com/antlr/grammars-v4
+
 
 This code has a example_grammar.g4 grammar file, a runtime.py file to run the antlr generated Parser and Lexer, and an input.txt file containing the code to be parsed.
 
